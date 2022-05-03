@@ -92,7 +92,7 @@ This will require Docker and docker-compose just FYI :-)
 
 # Engineering Opportunties
 
-## 👷‍♀️🔗 Blockcahin + Smart Contract Engineer
+## 👷‍♀️🔗 Blockchain + Smart Contract Engineer
 
 ### Who We're Looking For
 
