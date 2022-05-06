@@ -209,19 +209,7 @@ Yup, That's Me! DM rickk#1128 on Discord.
 
 ### Who We're Looking For
 
-*In you as a person*
-
-- 
-
-- 
-
-- 
-
-*For the Backend Engineer role in particular*
-
-- An optimization freak for whom fast isn't fast enough
-
-- 
+🚧 Still thinking...🤔
 
 ### Must Haves
 *AKA The things we'll actually interview for to explore expertise*
