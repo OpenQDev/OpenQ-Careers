@@ -2,9 +2,11 @@
 
 ## About Us
 
-TL;DR OpenQ builds Web3 Developer Tooling. Sometimes this takes the form of DAO Tooling. 
+We generally recommend that anyone who wants to apply for OpenQ reads all our articles on medium to understand our mentality. 
+Start here and grab a coffee on a nice rainy Sunday. It will be exciting:
+https://medium.com/openqdev/introducing-openq-on-polygon-1b096f74e949
 
-A brief intro to OpenQ, or if you like, skip to the [Dev Opportunties]().
+TL;DR 
 OpenQ is a permissionless, GitHub-integrated, on-chain work platform tailored for software development feature bounties.
 
 With OpenQ,  **_ANYONE_**  can mint and fund a bounty for  **_ANY OPEN SOURCE ORGANIZATION_**  from a GitHub Issue in seconds at [https://app.openq.dev](https://app.openq.dev/).
