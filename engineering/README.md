@@ -81,7 +81,8 @@ We are 100% transparent at all steps in the interview process.
 
 ### Step 1: Apply
 
-Fill out this 5 minute Google Form with your LinkedIn, GitHub, Twitter, etc.
+Fill out this 5 minute Form with your LinkedIn, GitHub, Twitter, etc.
+https://itzldldbwlt.typeform.com/to/m4ujIzU6
 
 ### Step 2: 30 Minute Video Interview
 
