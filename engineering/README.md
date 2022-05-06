@@ -37,7 +37,7 @@ At OpenQ we don't really distinguish between Senior, Mid-Level, Jedi, Level 6, T
 
 We don't eschew hierarchical engineering titles to be cool and alternative for it's own sake. It's just more efficient, and we all know these designations are often assigned arbitrarily and politicized to silence more junior voices, often to the detriment of the product.
 
-<blockquote>Quality code can come from any person, with any with any number of years of experience, and even any skill level.</blockquote>
+<blockquote>Quality code can come from any person, with any number of years of experience, and even any skill level.</blockquote>
 
 And what we put out at OpenQ is just that - quality code. Everything else but running code is words, and those are cheap.
 
