@@ -5,12 +5,11 @@ We generally recommend that anyone who wants to apply for OpenQ reads all our ar
 
 TL;DR OpenQ is a permissionless, GitHub-integrated, on-chain work platform tailored for software development feature bounties.
 
-With OpenQ, ANYONE c# OpenQ-Careersan mint and fund a bounty for ANY OPEN SOURCE ORGANIZATION from a GitHub Issue in seconds at https://app.openq.dev.
+With OpenQ, **_ANYONE_**  can mint and fund a bounty for  **_ANY OPEN SOURCE ORGANIZATION_**  from a GitHub Issue in seconds at [https://app.openq.dev](https://app.openq.dev/).
 
 That means dApps underpinning DAOs, FOSS packages like Log4j, or any firm with an open source presence.
 
-Contributors can then automagically claim their funds after a maintainer reviews and merges a pull request that completes the issue.
-
+Contributors can then  **_automagically_**  claim their funds after a maintainer reviews and merges a pull request that completes the issue.
 ## Open Positions
 
 ### [Software Engineer](https://github.com/OpenQDev/OpenQ-Careers/tree/main/engineering)
