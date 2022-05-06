@@ -17,7 +17,9 @@ Contributors can then  **_automagically_**  claim their funds after a maintainer
 
 # Some Unique Notes
 
+## 🌎 Location
 
+We’re a remote company that meets up IRL multiple times a year to hack/work together. 
 
 ## The Irony of Bootstrapping a Self-Hosted Compiler for Web 3 Work
 
