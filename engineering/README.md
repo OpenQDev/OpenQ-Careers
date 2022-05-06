@@ -149,7 +149,7 @@ This will require Docker and docker-compose just FYI :-)
 
 ### Ready?
 
-Yup, That's Me! [Apply Now!]()
+Yup, That's Me! DM. rickk#1128 on Discord.
 
 <hr>
 
