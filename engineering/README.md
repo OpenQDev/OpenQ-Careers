@@ -1,10 +1,17 @@
-# 👷‍♂️🔨 Engineering Opportunities @ OpenQ 🖋👷‍♀️
+# 👷‍♂️🔨 Biz Dev Opportunities @ OpenQ 🖋👷‍♀️
 
 ## About Us
 
-A brief intro to OpenQ, or if you like, skip to the [Engineering Opportunties]().
+TL;DR OpenQ builds Web3 Developer Tooling. Sometimes this takes the form of DAO Tooling. 
 
-OpenQ builds Web3 Developer Tooling. Sometimes this takes the form of DAO Tooling. Other times it takes the form of .
+A brief intro to OpenQ, or if you like, skip to the [Biz Dev Opportunties]().
+OpenQ is a permissionless, GitHub-integrated, on-chain work platform tailored for software development feature bounties.
+
+With OpenQ,  **_ANYONE_**  can mint and fund a bounty for  **_ANY OPEN SOURCE ORGANIZATION_**  from a GitHub Issue in seconds at [https://app.openq.dev](https://app.openq.dev/).
+
+That means dApps underpinning DAOs, FOSS packages like Log4j, or any firm with an open source presence.
+
+Contributors can then  **_automagically_**  claim their funds after a maintainer reviews and merges a pull request that completes the issue.
 
 # Some Unique Notes
 
