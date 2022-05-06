@@ -18,7 +18,8 @@ Contributors can then  **_automagically_**  claim their funds after a maintainer
 
 ## 🌎 Location
 
-We’re a remote company that meets up IRL multiple times a year to hack/work together. 
+We’re a remote company that meets up IRL multiple times a year to hack/work together.  
+Our co-founders Andrew and Rick live in Austin, TX and Berlin, Germany. If you're in the area, you're sure to see them in a co-working space often.
 
 ## The Irony of Bootstrapping a Self-Hosted Compiler for Web 3 Work
 
