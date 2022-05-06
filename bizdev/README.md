@@ -12,8 +12,6 @@ OpenQ is a permissionless, GitHub-integrated, on-chain work platform tailored fo
 
 With OpenQ,  **_ANYONE_**  can mint and fund a bounty for  **_ANY OPEN SOURCE ORGANIZATION_**  from a GitHub Issue in seconds at [https://app.openq.dev](https://app.openq.dev/).
 
-That means dApps underpinning DAOs, FOSS packages like Log4j, or any firm with an open source presence.
-
 Contributors can then  **_automagically_**  claim their funds after a maintainer reviews and merges a pull request that completes the issue.
 
 # Some Unique Notes
