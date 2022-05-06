@@ -1,4 +1,4 @@
-# 👷‍♂️🔨 Biz Dev Opportunities @ OpenQ 🖋👷‍♀️
+# 👷‍♂️🔨 Engineering Opportunities @ OpenQ 🖋👷‍♀️
 
 ## About Us
 
