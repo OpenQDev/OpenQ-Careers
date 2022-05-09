@@ -93,7 +93,7 @@ Since we are currently a developer centric platform but you are applying for a p
 
 ✅ A Master's degree in Ecomony or Business Administ... haha just kidding
 
-✅ General understanding of blockchain technology. You should know how to use a Metamask wallet and how to stake money on a DeFi protcol
+✅ General understanding of blockchain technology. You should know how to use a Metamask wallet and how to stake money on a DeFi protocol
 
 ### Nice to Haves
 *AKA The things it would be cool for you to already know, but if not, we'll teach you!*
