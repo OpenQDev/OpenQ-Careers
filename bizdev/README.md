@@ -105,9 +105,10 @@ Since we are currently a developer centric platform but you are applying for a p
 ### You will
 
 -   Plan & execute the business strategy to onboard DAOs and developers
+-   Contribute to the basic concept of our DAO and governance structure.  We have some very unique features planned that will likely be reused by many other DAOs in the future. Brainstorming & execution is key.
 -   Perform detailed, data-focused research on various markets  in order to decide for the next best market to enter
 -   Reach out to decision makers in such new markets and other key contacts from the industry that are needed to roll-out the expansion
-- Write DAO proposals
+-   Write DAO proposals
 -   Network and acquire new business relationships within our broad network of experienced founders and investors and work together closely with them
 - Travel around the world and get to know and exchange ideas with various crypto and open source projects. 
 
