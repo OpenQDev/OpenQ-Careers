@@ -64,7 +64,7 @@ This convo is to talk shop about your experience and to answer any questions you
 
 ### Step 3: Complete a Paid Bounty with OpenQ
 
-Because OpenQ is itself a contributor-to-core-dev pipeline of sorts, from bounty hunter to trusted inner circle, Step 2 involves completing a paid bounty in your area of expertise -
+Because OpenQ is itself a contributor-to-core-dev pipeline of sorts, from bounty hunter to trusted inner circle, Step 3 involves completing a paid bounty in your area of expertise -
 
 Since we are currently a developer centric platform but you are applying for a position outside the code universe, this will be less to prove your code skills (also happy to give you a quick challenge if you still want to prove what your able to code ;) thats a huge plus point) and more to familiarize yourself with the process behind OpenQ. The task will be secondary in that respect.
 
