@@ -95,7 +95,7 @@ This convo is to talk shop about your experience, your part of the stack, and to
 
 ### Step 3: Complete a Paid Bounty with OpenQ
 
-Because OpenQ is itself a contributor-to-core-dev pipeline of sorts, from bounty hunter to trusted inner circle, Step 2 involves completing a paid bounty in your area of expertise - blockchain, backend or frontend.
+Because OpenQ is itself a contributor-to-core-dev pipeline of sorts, from bounty hunter to trusted inner circle, Step 3 involves completing a paid bounty in your area of expertise - blockchain, backend or frontend.
 
 We've all had the take home coding challenge. This is different - you will actually be contributing the live OpenQ product.
 
