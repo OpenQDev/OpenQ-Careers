@@ -38,7 +38,7 @@ We don't eschew hierarchical titles to be cool and alternative for it's own sake
 
 And what we put out at OpenQ is just that - quality of work. Everything else are empty words for us, and those are cheap.
 
-If you want to say Senior Marketing or Chancellor whatever, go for it!  😉. The least you should have is a reference to your work to defend your reputation ;)
+If you want to say Senior UI/UX Lead or Chancellor whatever, go for it!  😉. The least you should have is a reference to your work to defend your reputation ;)
 OpenQ wants to level the path of an open organization and aims to become a DAO itself. This means that most of the work you will do here will be visible to our community.
 
 This way will be especially exciting for newcomers who would like to experience the entire development process of a DAO. Be it of a legal nature or organizational. You will find a lifelong place here, even if only as a Snapshot voter ;)
