@@ -19,4 +19,3 @@ Contributors can then  **_automagically_**  claim their funds after a maintainer
 ### [Business Development](https://github.com/OpenQDev/OpenQ-Careers/blob/main/bizdev/README.md)
 
 ### [UI/UX](https://github.com/OpenQDev/OpenQ-Careers/blob/main/ui/ux/README.md)
-
